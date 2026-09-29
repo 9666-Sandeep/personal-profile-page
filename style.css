@@ -1,0 +1,27 @@
+/* Element Selector */
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+/* ID Selector */
+#name {
+  font-size: 35px;
+}
+
+/* Class Selector */
+.details {
+  font-size: 20px;
+}
+
+/* Grouping Selector */
+h1,
+h2,
+p {
+  margin: 10px;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+}
